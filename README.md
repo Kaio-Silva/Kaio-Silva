@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/Kaio-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaio-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Kaio-Csharp" height="300" width="490" src="https://www.clipartmax.com/middle/m2H7H7Z5N4d3N4N4_custom-web-development-web-development-illustration-png/">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
 </div>
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-Silva&layout=compact&langs_count=7&theme=dracula"/>
