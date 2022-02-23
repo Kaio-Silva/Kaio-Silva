@@ -8,7 +8,7 @@
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-Silva&layout=compact&langs_count=7&theme=dracula"/>
   </div>  
- <h3> Linguagens: </h3>
+ <h3> Linguagens e Bibliotecas: </h3>
 <div style="display: inline_block">
   <img align="center" alt="Kaio-Csharp" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
   <img align="center" alt="Kaio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
