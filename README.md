@@ -18,7 +18,7 @@
 </div>
  <h3> Estou Estudando: </h3>
  <div style="display: inline_block"><br>
-   <img align="center" alt="Kaio-MongoDb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
+   <img align="center" alt="Kaio-MongoDb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">
    <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
  <br/>
