@@ -1,6 +1,7 @@
 ## Oiii! Eu sou o Kaio da Silva Coelho  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br/>
  <div>
+ <img src="https://www.codewars.com/users/Kaio-Silva/badges/small">
   <a href="https://github.com/Kaio-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaio-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="350px" align="right" alt="Computador">
