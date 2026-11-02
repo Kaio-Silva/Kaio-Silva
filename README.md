@@ -8,10 +8,6 @@
 </div>
 
 <br />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaio-Silva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
  
 ### Main skills:
 ![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
